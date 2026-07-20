@@ -1,4 +1,4 @@
-#  Bank Customer Loan Risk Analysis Dashboard
+#  Bank Customer Loan Risk Analysis | SQL & Tableau Analytics
 
 ![Dashboard](Dashboard.png)
 
@@ -42,6 +42,17 @@ The objective of this project is to help the bank:
 - Dashboard Design
 - Business Analysis
   
+---
+
+##  Project Workflow
+
+1. Data Collection
+2. Data Cleaning using Excel
+3. Data Exploration using SQL Server
+4. KPI Calculation
+5. Dashboard Development using Tableau
+6. Business Insights Generation
+
 ---
 
 ##  Dashboard KPIs
