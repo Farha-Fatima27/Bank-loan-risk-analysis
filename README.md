@@ -1,5 +1,8 @@
 #  Bank Customer Loan Risk Analysis Dashboard
 
+![Dashboard](Dashboard.png)
+
+
 ##  Project Overview
 
 This project analyzes bank loan applications to understand customer demographics, loan purposes, income patterns, home ownership, and credit risk.
