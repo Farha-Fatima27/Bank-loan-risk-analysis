@@ -1,5 +1,10 @@
-select * from [dbo].[bank_loan_data_cleaned]
+/*
+========================================================================
+                   Bank Laon Risk Analysis
+========================================================================
+*/
 
+--Display the first 10 records of the dataset
 select top 10 * from [dbo].[bank_loan_data_cleaned]
 
 --Section 1 : Customer Profile Analysis
