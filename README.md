@@ -31,6 +31,19 @@ The objective of this project is to help the bank:
 
 ---
 
+## Skills Demonstrated
+
+- SQL Joins
+- Common Table Expressions (CTEs)
+- Window Functions
+- Aggregate Functions
+- Data Cleaning
+- Data Visualization
+- Dashboard Design
+- Business Analysis
+  
+---
+
 ##  Dashboard KPIs
 
 - Total Customers
